@@ -1,0 +1,15 @@
+import {callTool,respond,tools} from '../packages/gmail-readonly/server.mjs';
+import assert from 'node:assert/strict';
+let calls=[];const fetcher=async(url,options)=>{calls.push({url,options});return new Response(JSON.stringify({messages:[{id:'abc'}]}));};
+const result=await callTool('messages',{query:'from:example@example.com',limit:2},fetcher,'fixture-token');
+assert.equal(JSON.parse(result.content[0].text).data.messages[0].id,'abc');assert.equal(calls[0].options.method,'GET');assert.equal(calls[0].options.redirect,'error');assert(calls[0].url.startsWith('https://gmail.googleapis.com/'));
+await assert.rejects(()=>callTool('send',{},fetcher,'fixture-token'));
+await assert.rejects(()=>callTool('message',{id:'../../settings'},fetcher,'fixture-token'));
+await assert.rejects(()=>callTool('messages',{limit:999},fetcher,'fixture-token'));
+await assert.rejects(()=>callTool('profile',{},fetcher,''));assert.equal(calls.length,1);
+const expired=await respond({jsonrpc:'2.0',id:4,method:'tools/call',params:{name:'profile'}},async()=>new Response('',{status:401}),'fixture-token');
+assert(expired.result.isError);assert.match(expired.result.content[0].text,/expired/);assert(!JSON.stringify(expired).includes('fixture-token'));
+assert.equal((await respond({jsonrpc:'2.0',id:1,method:'tools/list'})).result.tools.length,4);
+assert.equal(await respond({jsonrpc:'2.0',method:'notifications/initialized'}),undefined);
+assert(!tools.some(t=>/send|delete|modify/.test(t.name)));
+console.log('Gmail connector: 13 assertions passed using an isolated API fixture. No mailbox accessed.');

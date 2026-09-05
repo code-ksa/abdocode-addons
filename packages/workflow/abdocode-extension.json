@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "abdo-workflow",
+  "name": "AbdoCode project workflows",
+  "version": "1.0.0",
+  "description": "Sprint planning, evidence-based project resume, browser verification and workspace document work. Uses existing authorized tools.",
+  "skills": ["skills/project-resume", "skills/sprint-plan", "skills/browser-check", "skills/cowork"],
+  "mcpServers": []
+}

@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "gmail-readonly",
+  "name": "Gmail (read only)",
+  "version": "1.0.0",
+  "description": "Read Gmail through its official API. Requires Node.js 18+ and a user-authorized OAuth token with gmail.readonly access. No send, delete or modify tools.",
+  "skills": ["skills/mail-review"],
+  "mcpServers": [{"id":"gmail","command":["node","${extension}/server.mjs"],"secrets":[{"env":"ABDO_EXT_GMAIL_ACCESS_TOKEN","handle":"custom-gmail-access-token"}]}]
+}

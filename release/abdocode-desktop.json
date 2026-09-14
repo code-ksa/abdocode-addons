@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.29",
+  "version": "4.0.30",
   "publishedAt": "2026-09-14",
-  "notes": "عبدو كود 4.0.29 — أتمتة سطح المكتب على أيّ نافذة: desk open/ui/set/press، لقطات صادقة على الشاشات المكبّرة، إشعار التحديث الدوري، موصّلات Granola وGamma، وأداة dismiss في المتصفح.",
-  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.29"
+  "notes": "عبدو كود 4.0.30 — إضافة المتصفّح تقترن وحدها (بلا لصق رمز)، browser extension يفتح المتصفّح ويعطي رابط التثبيت إن غابت، وdesk open يعالج قوائم اختيار البرامج.",
+  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.30"
 }

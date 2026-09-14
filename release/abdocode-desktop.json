@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.22",
+  "version": "4.0.23",
   "publishedAt": "2026-09-14",
-  "notes": "عبدو كود 4.0.22 — أوّل إصدار عامّ: الكود والمثبّت على github.com/code-ksa/abdocode.",
-  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.22"
+  "notes": "عبدو كود 4.0.23 — أداة image للصور المحفوظة، إصلاح علامة الأمر المكسورة، تنبيه الميزانية، قضبان تتكيّف مع النموذج.",
+  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.23"
 }

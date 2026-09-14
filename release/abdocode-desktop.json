@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.23",
+  "version": "4.0.29",
   "publishedAt": "2026-09-14",
-  "notes": "عبدو كود 4.0.23 — أداة image للصور المحفوظة، إصلاح علامة الأمر المكسورة، تنبيه الميزانية، قضبان تتكيّف مع النموذج.",
-  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.23"
+  "notes": "عبدو كود 4.0.29 — أتمتة سطح المكتب على أيّ نافذة: desk open/ui/set/press، لقطات صادقة على الشاشات المكبّرة، إشعار التحديث الدوري، موصّلات Granola وGamma، وأداة dismiss في المتصفح.",
+  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.29"
 }

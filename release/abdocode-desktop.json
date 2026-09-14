@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.34",
+  "version": "4.0.35",
   "publishedAt": "2026-09-14",
-  "notes": "عبدو كود 4.0.34 — نبض keepalive لإضافة المتصفّح (اتصال مقيس، لا انتظار بلا ردّ) مع الإضافة 0.4.2، وإصلاح الوسائط الفارغة لأدوات MCP.",
-  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.34"
+  "notes": "عبدو كود 4.0.35 — إعادة قراءة الصفحة بعد الكتابة والضغط في تبويبك عبر الإضافة لا تُحسب تكراراً (أدوات الجسر الخارجيّة متقلّبة).",
+  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.35"
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.32",
+  "version": "4.0.33",
   "publishedAt": "2026-09-14",
-  "notes": "عبدو كود 4.0.32 — إضافة المتصفّح تقترن وتعيد الاتصال وحدها، أداة bridge للنموذج، دروس الإصدار تعلّم كل نسخة مثبّتة، وعقد DesktopBackend لأنظمة أخرى.",
-  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.32"
+  "notes": "عبدو كود 4.0.33 — أداة script (تشغيل سكربت بمفسّره أماميّاً أو خلفيّاً ونسخة احتياطيّة قبل التعديل)، والكتابة في الحقول عبر إضافة المتصفّح بالموافقة.",
+  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.33"
 }

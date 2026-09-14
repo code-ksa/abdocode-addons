@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.30",
+  "version": "4.0.32",
   "publishedAt": "2026-09-14",
-  "notes": "عبدو كود 4.0.30 — إضافة المتصفّح تقترن وحدها (بلا لصق رمز)، browser extension يفتح المتصفّح ويعطي رابط التثبيت إن غابت، وdesk open يعالج قوائم اختيار البرامج.",
-  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.30"
+  "notes": "عبدو كود 4.0.32 — إضافة المتصفّح تقترن وتعيد الاتصال وحدها، أداة bridge للنموذج، دروس الإصدار تعلّم كل نسخة مثبّتة، وعقد DesktopBackend لأنظمة أخرى.",
+  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.32"
 }

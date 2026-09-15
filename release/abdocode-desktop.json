@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.35",
+  "version": "4.0.36",
   "publishedAt": "2026-09-14",
-  "notes": "عبدو كود 4.0.35 — إعادة قراءة الصفحة بعد الكتابة والضغط في تبويبك عبر الإضافة لا تُحسب تكراراً (أدوات الجسر الخارجيّة متقلّبة).",
-  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.35"
+  "notes": "عبدو كود 4.0.36 — بوّابة البناء لا تطلب npm run build إلا حين يعرّفه package.json (لا سكربتات مُضافة لإرضائها)، وأداتا wait وdesk wait لانتظار ظهور العناصر.",
+  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.36"
 }

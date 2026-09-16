@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.45",
+  "version": "4.0.46",
   "publishedAt": "2026-09-17",
-  "notes": "عبدو كود 4.0.45 — المتصفّح: tabs وback/forward في المتصفّحين، وسياسةُ المواقع من الشات (browser allow|block)؛ سطحُ المكتب: desk point بنموذج الرؤية، drag والتمريرُ الأفقيّ، قناةُ لينكس/WSLg؛ الإيصالاتُ المختلَقة لا تُقبل إنجازاً — مع إضافة المتصفّح 0.6.1.",
-  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.45"
+  "notes": "عبدو كود 4.0.46 — ازدحامُ المزوّد لا يقتل الدور: سبعُ محاولاتٍ تُقال سطراً، وصعودٌ تلقائيّ في سلّم التصعيد عند 503، ورسالةُ فشلٍ تسمّي المزوّد المزدحم وطريقَ الاستئناف.",
+  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.46"
 }

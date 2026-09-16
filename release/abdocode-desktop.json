@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.39",
-  "publishedAt": "2026-09-15",
-  "notes": "عبدو كود 4.0.39 — المتصفّح: select للقوائم المنسدلة، upload لحقول الملفّات بلا حوار نظام (من داخل المشروع فقط)، drag للسحب والإفلات — في المتصفّح المملوك وإضافة المتصفّح 0.5.0.",
-  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.39"
+  "version": "4.0.45",
+  "publishedAt": "2026-09-17",
+  "notes": "عبدو كود 4.0.45 — المتصفّح: tabs وback/forward في المتصفّحين، وسياسةُ المواقع من الشات (browser allow|block)؛ سطحُ المكتب: desk point بنموذج الرؤية، drag والتمريرُ الأفقيّ، قناةُ لينكس/WSLg؛ الإيصالاتُ المختلَقة لا تُقبل إنجازاً — مع إضافة المتصفّح 0.6.1.",
+  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.45"
 }

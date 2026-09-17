@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.54",
+  "version": "4.0.55",
   "publishedAt": "2026-09-17",
-  "notes": "عبدو كود 4.0.54 — رسالةُ النظام طبقاتٌ مسمّاة بإيصالٍ بالبايت، خوادمُ التطوير أزراراً في لوح المتصفّح (launch.json)، المحرّكُ الدلاليّ v2 (تسلسل، هدف، نفي، سؤال)، وأوامرُ ssh/wsl/docker لا يحكمها حارسُ PowerShell.",
-  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.54"
+  "notes": "عبدو كود 4.0.55 — توصيلُ مزوّدٍ لا يُشغَّل رفضٌ مسمّى لا توقّفٌ للمحرّك، وطلباتُ الداشبورد/لوحة التحكّم عمليّةٌ تُوجَّه إلى دليلها.",
+  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.55"
 }

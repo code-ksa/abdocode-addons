@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.81",
+  "version": "4.0.82",
   "publishedAt": "2026-09-29",
-  "notes": "عبدو كود 4.0.81 — أداةُ probe تفحص صفحات خادم التطوير كلَّها في نداءٍ واحد، والقتلُ بالرقم يُقاس بالملكيّة (خوادم الدور وتشغيلاته وعمليّات المشروع تمرّ، وغيرُها يُرفض). يشمل كلَّ ما في 4.0.71–4.0.80.",
-  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.81"
+  "notes": "عبدو كود 4.0.82 — ثلاثُ أفكارٍ على نظامنا: نموذجُ قرارٍ منفصل للأحكام (decisionModel — فكرة OpenJev)، وعمّالٌ متوازون كلٌّ في git worktree وفرعٍ خاصّ مع merge (فكرة Verdent)، وprobe ضمن حزمة القراءة (نداءاتٌ متوازية — فكرة Qwen-Agent). يشمل كلَّ ما في 4.0.71–4.0.81.",
+  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.82"
 }

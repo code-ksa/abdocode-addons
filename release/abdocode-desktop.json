@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.90",
-  "publishedAt": "2026-09-29",
-  "notes": "عبدو كود 4.0.90 — عمّالُ parallel يشاركون node_modules المشروع الأصل عبر وصلةٍ تُفكّ قبل إزالة الشجرة، وشجراتُهم تحت المسار الطويل لا القصير 8.3 (كان next dev يخرج قبل الإنصات بتأكيد libuv) وإيصالُ الخادم المُدار يسمّي هذا السبب. يشمل 4.0.89 وكلَّ ما قبله منذ 4.0.71.",
-  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.90"
+  "version": "4.0.91",
+  "publishedAt": "2026-09-30",
+  "notes": "عبدو كود 4.0.91 — شرطُ دليل المتصفّح يقبل إيصالات إضافة المتصفّح (chrome.open/shot/tap) كما يقبل open/shot/tap، وmerge يقول صراحةً حين يغيّر فرعُ عاملٍ اسمَ الحزمة. يشمل 4.0.89/4.0.90 وكلَّ ما قبلهما منذ 4.0.71.",
+  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.91"
 }

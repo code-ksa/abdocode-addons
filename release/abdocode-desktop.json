@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.105",
-  "publishedAt": "2026-10-01",
-  "notes": "عبدو كود 4.0.105 — فحصُ صياغة CSS قبل الكتابة (ملفٌّ بلا «{» لم يعد يُسقط الموقعَ كلَّه)، وطلبُ خادم الإنتاج لا يُجاب بخادم تطوير، وبوّابةُ الواجهة تقبل audit بالعروض الخمسة وحدها، ودفعُ الكتابة يطلب الاستدعاءَ نفسَه.",
-  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.105"
+  "version": "4.0.106",
+  "publishedAt": "2026-10-02",
+  "notes": "عبدو كود 4.0.106 — الرفعُ إلى Google Drive بتحويلٍ إلى مستندات وجداول وعروض جوجل، وإنشاءُ مستند جوجل من نصّ، وإصلاحُ موصّلَي GitHub وAsana، وحتى 24 خادمَ MCP.",
+  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.106"
 }

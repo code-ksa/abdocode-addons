@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.102",
+  "version": "4.0.103",
   "publishedAt": "2026-10-01",
-  "notes": "عبدو كود 4.0.102 — مسارُ [id] (مجلّد Next.js الديناميكيّ) يُعامَل بـ-LiteralPath على PowerShell بدل أن يُحذف لا شيءَ بصمت، وحزمةُ قراءةٍ مرسلةٌ برمز ⚙ تُنفَّذ بدل أن تُنهي الدور. يشمل كلَّ ما في 4.0.71–4.0.101.",
-  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.102"
+  "notes": "عبدو كود 4.0.103 — أدواتُ جودة: audit وrelease-check وcompare وseo (SEO/GEO/AEO/SXO)، وعروضٌ تقديميّة slides إلى PPTX وPDF وHTML، وposture، وقراءةُ Excel ورقةً ورقة؛ بوّابةُ جودة الواجهات للسبرنت؛ والمهامُّ الطويلة تواصل الكتابة (السبرنتُ كاملاً، والقراءاتُ المحمولة بحجم النافذة). لكلّ أداةٍ مفتاحٌ في الإعدادات.",
+  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.103"
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "4.0.106",
+  "version": "4.0.107",
   "publishedAt": "2026-10-02",
-  "notes": "عبدو كود 4.0.106 — الرفعُ إلى Google Drive بتحويلٍ إلى مستندات وجداول وعروض جوجل، وإنشاءُ مستند جوجل من نصّ، وإصلاحُ موصّلَي GitHub وAsana، وحتى 24 خادمَ MCP.",
-  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.106"
+  "notes": "عبدو كود 4.0.107 — نداءُ الأداة المكتوب بصيغة السجلّ (⚙ read …) يُنفَّذ في صيغٍ أكثر بدل أن تنتهي الحقبةُ بلا أداة: مع ذيل القياس، ومحرفٍ تالف، وaudit، والبناء والاختبار، ونصٍّ بعده.",
+  "page": "https://github.com/code-ksa/abdocode/releases/tag/v4.0.107"
 }
